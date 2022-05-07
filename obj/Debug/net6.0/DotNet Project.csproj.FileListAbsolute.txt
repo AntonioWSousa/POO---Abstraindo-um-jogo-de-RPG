@@ -1,0 +1,15 @@
+C:\Workspaces\DotNet Project\bin\Debug\net6.0\DotNet Project.exe
+C:\Workspaces\DotNet Project\bin\Debug\net6.0\DotNet Project.deps.json
+C:\Workspaces\DotNet Project\bin\Debug\net6.0\DotNet Project.runtimeconfig.json
+C:\Workspaces\DotNet Project\bin\Debug\net6.0\DotNet Project.dll
+C:\Workspaces\DotNet Project\bin\Debug\net6.0\DotNet Project.pdb
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\DotNet Project.csproj.AssemblyReference.cache
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\DotNet Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\DotNet Project.AssemblyInfoInputs.cache
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\DotNet Project.AssemblyInfo.cs
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\DotNet Project.csproj.CoreCompileInputs.cache
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\DotNet Project.dll
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\refint\DotNet Project.dll
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\DotNet Project.pdb
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\DotNet Project.genruntimeconfig.cache
+C:\Workspaces\DotNet Project\obj\Debug\net6.0\ref\DotNet Project.dll
